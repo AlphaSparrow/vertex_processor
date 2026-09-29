@@ -1,0 +1,19 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# Generated output assets
+*.bmp
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.suo
+*.user
